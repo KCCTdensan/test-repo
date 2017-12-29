@@ -2,19 +2,19 @@
 using namespace std;
 
 int addition(int a, int b) {
-	return a + b  ;
+	return 
 }
 
 int subtraction(int a, int b) {
-	return a-b;
+	return 
 }
 
 int multiplication(int a, int b) {
-	return a*b;
+	return 
 }
 
 int division(int a, int b) {
-	return a / b;
+	return 
 }
 
 int main() {
