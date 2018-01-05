@@ -14,7 +14,10 @@ int multiplication(int a, int b) {
 }
 
 int division(int a, int b) {
-	return 
+
+	int ans;
+	ans = a / b;
+	return ans;
 }
 
 void testA() {
