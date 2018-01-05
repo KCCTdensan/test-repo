@@ -22,7 +22,9 @@ void testA() {
 }
 
 void testB() {
-
+	string B;
+	cin >> B;
+	return B;
 }
 
 void testC() {
