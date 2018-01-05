@@ -17,6 +17,22 @@ int division(int a, int b) {
 	return 
 }
 
+void testA() {
+
+}
+
+void testB() {
+
+}
+
+void testC() {
+
+}
+
+void testD() {
+
+}
+
 int main() {
 	int x, y;
 	cin >> x >> y;
