@@ -21,7 +21,8 @@ int division(int a, int b) {
 }
 
 void testA() {
-
+	cout<<3+3+4<<endl;
+	return;
 }
 
 void testB() {
