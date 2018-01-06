@@ -35,7 +35,7 @@ void testC() {
 }
 
 void testD() {
-
+	cout << "testD" << endl;
 }
 
 int main() {
