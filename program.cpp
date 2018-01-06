@@ -10,7 +10,9 @@ int subtraction(int a, int b) {
 }
 
 int multiplication(int a, int b) {
-	return 
+	int c;
+	c = a * b;
+		return c;
 }
 
 int division(int a, int b) {
